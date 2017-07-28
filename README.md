@@ -1,6 +1,6 @@
 
 
-please-dont is a vim plugin that "indents" code in a way that you please shouldn't indent it.
+please-dont is a vim plugin that "indents" code in a way that you please shouldn't indent it in.
 
 
 ![demo.jpg](demo.jpg)
@@ -24,4 +24,5 @@ cp vim-please-dont/please-dont/please-dont.vim ~/.vim/plugins
 
 # TODO
 * The indentation settings are not restored correctly when working with multiple buffers.
+* Opening a new buffer also causes some problems with indentation settings.
 * For-loops are fairly broken right now.
