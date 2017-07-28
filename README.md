@@ -18,7 +18,7 @@ Here's what the plugin can do though:
 * On vanilla vim: 
 ```
 git clone https://github.com/PawkyPenguin/vim-please-dont.git
-cp vim-please-dont/please-dont/please-dont.vim ~/.vim/plugins
+cp vim-please-dont/please-dont/please-dont.vim ~/.vim/plugin
 ```
 * On a system with some kind of vim plugin management installed (such as ![Vundle](https://github.com/VundleVim/Vundle.vim) or ![pathogen](https://github.com/tpope/vim-pathogen)), you hopefully already know what to do ;)
 
