@@ -3,7 +3,7 @@
 please-dont is a vim plugin that "indents" code in a way that you please shouldn't indent it.
 
 
-![demo.jpg](demo picture)
+![demo.jpg](demo.jpg)
 
 # Usage
 Please don't. 
