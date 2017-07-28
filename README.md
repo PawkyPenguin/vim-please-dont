@@ -20,7 +20,7 @@ Here's what the plugin can do though:
 git clone https://github.com/PawkyPenguin/vim-please-dont.git
 cp vim-please-dont/please-dont/please-dont.vim ~/.vim/plugins
 ```
-* On a system with some kind of vim plugin management installed (such as ![https://github.com/VundleVim/Vundle.vim](Vundle) or ![https://github.com/tpope/vim-pathogen](pathogen)), you hopefully already know what to do ;)
+* On a system with some kind of vim plugin management installed (such as ![Vundle](https://github.com/VundleVim/Vundle.vim) or ![pathogen](https://github.com/tpope/vim-pathogen)), you hopefully already know what to do ;)
 
 # TODO
 * The indentation settings are not restored correctly when working with multiple buffers.
